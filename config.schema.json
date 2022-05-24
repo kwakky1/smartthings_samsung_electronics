@@ -1,0 +1,23 @@
+{
+  "pluginAlias": "SamsungAirPurifier",
+  "pluginType": "platform",
+  "singular": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "title": "Name",
+        "type": "string",
+        "required": true,
+        "default": "Air Purifier",
+        "placeholder": "Air Purifier"
+      },
+      "token": {
+        "title": "API Token",
+        "type": "string",
+        "required": true,
+        "default": ""
+      }
+    }
+  }
+}
