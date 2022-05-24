@@ -11,6 +11,7 @@ import {
 
 import { PLATFORM_NAME, PLUGIN_NAME } from './settings';
 import { AirPurifier } from './device/AirPurifier';
+import { AirConditioner } from './device/AirConditioner';
 import {
   BearerTokenAuthenticator,
   Device,
@@ -21,7 +22,6 @@ import {
 } from '@smartthings/core-sdk';
 import { DeviceAdapter } from './deviceStatus/deviceAdapter';
 import { AirConditionerAdapter } from './deviceStatus/airConditioner';
-import { AirConditioner } from './device/AirConditioner';
 
 export class SmartThingsPlatform implements DynamicPlatformPlugin {
   public readonly Service: typeof Service = this.api.hap.Service;

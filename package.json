@@ -6,10 +6,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwakky1/smarttings_samsung_electronics"
+    "url": "https://github.com/kwakky1/smartthings_samsung_electronics"
   },
   "bugs": {
-    "url": "https://github.com/kwakky1/smarttings_samsung_electronics/issues"
+    "url": "https://github.com/kwakky1/smartthings_samsung_electronics/issues"
   },
   "engines": {
     "node": ">=14.18.1",
