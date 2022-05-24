@@ -87,6 +87,7 @@ export class SmartThingsPlatform implements DynamicPlatformPlugin {
     device: Device,
     capabilities: string[],
   ): string[] {
+
     const categories = SmartThingsPlatform.getCategories(device)[0];
     switch (categories) {
       case 'AirPurifier':

@@ -1,7 +1,7 @@
 {
   "displayName": "Smartthings Samsung Electronics",
   "name": "homebridge-smartthings-samsung-electronics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Homebridge plugin for controlling/monitoring Samsung Electronics via their Smartthings platform.",
   "license": "Apache-2.0",
   "repository": {

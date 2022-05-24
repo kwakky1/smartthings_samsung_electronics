@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "SamsungAirPurifier",
+  "pluginAlias": "Smartthings Samsung Electronics",
   "pluginType": "platform",
   "singular": true,
   "schema": {
@@ -9,8 +9,8 @@
         "title": "Name",
         "type": "string",
         "required": true,
-        "default": "Air Purifier",
-        "placeholder": "Air Purifier"
+        "default": "Smartthings Samsung Electronics",
+        "placeholder": "Smartthings Samsung Electronics"
       },
       "token": {
         "title": "API Token",
