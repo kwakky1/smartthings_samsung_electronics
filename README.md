@@ -18,7 +18,7 @@ A Homebridge plugin for controlling/monitoring Samsung Electronics via their Sma
 ---
 
 ```
-npm i -g homebridge-samsung-air-purifier
+npm i -g homebridge-smartthings-samsung-electronics
 ```
 
 # Plugin Authorization Setting
